@@ -45,7 +45,3 @@ grunt-config.json
 config.yml
 /_site
 assets/logo.png
-
-._*
-.DS_Store
-Thumbs.db
